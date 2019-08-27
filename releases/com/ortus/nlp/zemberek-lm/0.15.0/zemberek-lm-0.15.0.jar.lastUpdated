@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Mar 23 15:57:08 EET 2019
-@default-ahmetaa-repo-https\://raw.github.com/ahmetaa/maven-repo/master/.lastUpdated=1553345823346
-http\://download.java.net/maven/2/.lastUpdated=1553345828684
-https\://repo.maven.apache.org/maven2/.lastUpdated=1553345826704
-http\://download.java.net/maven/2/.error=
-https\://raw.github.com/ahmetaa/maven-repo/master/.error=Could not transfer artifact zemberek-nlp\:zemberek-lm\:jar\:0.15.0 from/to ahmetaa-repo (https\://raw.github.com/ahmetaa/maven-repo/master)\: C\:\\Users\\selcukme\\.m2\\repository\\zemberek-nlp\\zemberek-lm\\0.15.0\\aether-cfda46a9-01bc-4b82-9358-0efad032ae6c-zemberek-lm-0.15.0.jar-in-progress (The system cannot find the file specified)
-https\://repo.maven.apache.org/maven2/.error=
