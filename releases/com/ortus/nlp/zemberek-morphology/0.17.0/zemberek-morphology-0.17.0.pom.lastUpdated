@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 27 16:43:46 EET 2019
+https\://repo.spring.io/libs-snapshot/.error=
+https\://github.com/selcukmeral/mvn-repo/raw/master/releases/.lastUpdated=1566913424542
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566913426467
+https\://triskeles.pkgs.visualstudio.com/_packaging/maven_repo/maven/v1/.lastUpdated=1566913424252
+https\://triskeles.pkgs.visualstudio.com/_packaging/maven_repo/maven/v1/.error=
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1566913426203
+https\://repo.maven.apache.org/maven2/.error=
+https\://github.com/selcukmeral/mvn-repo/raw/master/releases/.error=
